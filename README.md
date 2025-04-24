@@ -23,7 +23,6 @@
   <p align="center">
     This experiment explores consistency between complex characters and environments in image generation through the use of user defined prompts, prompt narrowing, prompt flooding, and prompt referencing.
     <br />
-    Prompt Referencing Application
     <br />
     <a href="https://github.com/BritainThomas32/4-comma-A01/blob/main/pdf/a1_britainThomas.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
