@@ -25,6 +25,7 @@
     <br />
     Prompt Referencing Application
     <br />
+    <a href="https://github.com/BritainThomas32/4-comma-A01/blob/main/pdf/a1_britainThomas.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://britainthomas32.wixsite.com/portfolio/projects">Britain Thomas</a>
