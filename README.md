@@ -24,7 +24,7 @@
     This experiment explores consistency between complex characters and environments in image generation through the use of user defined prompts, prompt narrowing, prompt flooding, and prompt referencing.
     <br />
     <br />
-    <a href="https://github.com/BritainThomas32/4-comma-A01/blob/main/pdf/a1_britainThomas.pdf"><strong>Link to PDF Report »</strong></a>
+    <a href="https://github.com/BritainThomas32/GenAIConsistencyImageExp/blob/main/images/pdf/The_Generative_AI_Image_Consistency_Experiment.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a href="https://britainthomas32.wixsite.com/portfolio/projects">Britain Thomas</a>
