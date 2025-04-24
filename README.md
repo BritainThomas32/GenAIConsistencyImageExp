@@ -33,9 +33,9 @@
   </p>
 </div>
 
-[![4-comma][images-fig1]](https://example.com)
+[![4-comma][images-fig1]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig2.png)
 
-Figure 1. The Final result of the application of all five phases.
+Figure 1. The Final result of the application of all five phases to produce a comic.
 
 <!-- Abstract -->
 ## Abstract
@@ -43,7 +43,7 @@ Figure 1. The Final result of the application of all five phases.
 The Generative AI Image Consistency Experiment focused on applying the concept of user defined prompts, prompt narrowing, prompt flooding, and prompt referencing. The application of these series of steps to produce consistent generated images, allowed for more cohesive storyboard creation with consistent characters and environments. The goal of combining these approaches was to simplify and speed up the storyboard creation process for more logical consistency between panels in the form of a comic. The application of user defined prompts proved significant in mitigating anomalies and illusions produced by the AI, and by applying prompt referencing along with this method, allowed for consistency between panels. Applying the concept of image-to-image based prompting, gave more successful results than traditional text-to-image only prompts.
 
 
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][images-fig2]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig2.png)
 
 Figure 2 is the Experiment Workflow to generate the consistency comic through the use of the five phases of the experiment through user defined prompts, prompt narrowing, prompt flooding, prompt referencing to then be assembled in the the finalization process seen in Phase 5.
 
@@ -54,27 +54,27 @@ Figure 2 is the Experiment Workflow to generate the consistency comic through th
 Consistent characters and environments give access to more application of AI assisted storyboard creation, the concepts of applying user defined prompts, prompt narrowing, prompt flooding, and prompt referencing developed the way for consistent board creation. Traditional methods that do not utilize these series of steps and utilize some of the concepts in isolation show a room for improvement [1]. The benefit of OpenAi’s DALL-E 3.0 model allows for the combination of all these steps to improve image quality being a transformer model when combined with ChatGPT o4 prompt generation. DALL-E 3.0’s image generation suffers from inaccuracy, but maintains artistic abstraction between tests with the methods of combining text and image generation [2]; therefore, the benefit of combining the methods gives more room for appealing images at the cost of accuracy, but with the introduction the series of steps in the Generative AI Image Consistency Experiment paves way to consistency of these appealing artistic images once defined by the user and saved in memory. The benefit of DALL-E is its incorporation of ChatGPT and the functionality shared between the two AI models, because of this integration and the introduction of DALL-E 3.0 the quality of images the model produces are higher [3]. With the introduction of user defined prompts, once saved into memory, utilized in this experiment gave an increase in consistency while maintaining quality between the comic panels.
 
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig3]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig3.png)
 
 Figure 3 is the Experiment Pipeline used to generate the comic's consistency for each of the ten panels showcasing the steps of the entire experiment in a condensed view.
 
 
-[![4-comma][images-fig4]](https://example.com)
+[![4-comma][images-fig4]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig4.png)
 
 Figure 4 is the process of user prompt referencing replacing the area defined by the user to place the characters in the final environment background during Phase 4 of the experiment.
 
 
-[![4-comma][images-fig5]](https://example.com)
+[![4-comma][images-fig5]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig5.png)
 
 Figure 5 is the mathematics formula for user prompt defining during Phase 1 of the experiment. The user defined prompts (U) are combined with style referenced images (S) to generate images that match the users defined prompt (G). The character is then generated with several views (C) in a set (n) of varying angles. The environment is then generated with several views (E) in a set (n) of varying angles. Then the set of images is combined to save in memory as the users prompt as a set of all images (I).
 
 
-[![4-comma][images-fig6]](https://example.com)
+[![4-comma][images-fig6]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig6.png)
 
 Figure 6 is the mathematics formula for prompt narrowing during Phase 2 of the experiment. Each initial prompts generated (p) are first narrowed down by color (c) and theme (t). The the initial prompts are influenced by the narrative (N) to further direct the image generation consistency.
 
 
-[![4-comma][images-fig7]](https://example.com)
+[![4-comma][images-fig7]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig7.png)
 
 Figure 7 is the mathematics formula for prompt flooding during Phase 3 of the experiment. The best prompts (p*) are determined by the highest evaluation score (arg max) of the evaluated (E) generated images (G) when generated with the initial prompts (p). Where the initial prompts (p) are a series of iterated colors (c) and themes (t). Prompt Flooding (ph) is then enriched by the combination of all elements of prompts influence of the final prompt (P).
 
@@ -84,22 +84,22 @@ Figure 7 is the mathematics formula for prompt flooding during Phase 3 of the ex
 The Generative AI Image Consistency Experiment consisted of a five phase process to generate each image within the comic, seen in figure 1. The workflow of the entire experiment, figure 2, showcases each step in creating the individual panels, while the pipeline is shown in a condensed format seen in figure 3. The process to enrich the desirable images seen in figure 1 are showcased in figure 4 of the process in action. Phase 1 of the experiment consisted of providing images created by the user to associate keywords for DALL-E to identify what the user is referring to when a prompt is stated by the user [figure 5]. Phase 2 of the experiment consisted of prompt narrowing to optimize prompts to its associated user prompt to produce the most successful and desirable output for the user, and each prompt is then saved in memory with its associated images [figure 6]. Phase 3 of the experiment consisted of prompt flooding, which takes the saved memory user defined and narrowed prompts to then hyper specify what the desirable image is, this is to mitigate illusions between future iterations in the prompt enrichment process seen in prompt flooding [figure 7]. Phase 4 of the experiment consisted of prompt referencing, which takes the final images and tweaks them for edits defined by the user for more desirable images [figure 8]. Phase 5 is the finalization step of the experiment where all images are then combined to fit a narrative finalizing the storyboard of the comic [figure 9 & 10]. The final panel creation process is showcased in figure 11, along with all the edits and modifications needed to produce a final panel.
 
 
-[![4-comma][images-fig8]](https://example.com)
+[![4-comma][images-fig8]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig8.png)
 
 Figure 8 is the mathematics formula for user prompt defining during Phase 4 of the experiment. The user defined series of images(Iu) is unioned with the defined character images (C) and its variants (V) and unioned along with the defined environment (E) and its variants (V). The final unioned image (ph) is then combined with reference images (R) to tweak the final generated image result (I`).
 
 
-[![4-comma][images-fig9]](https://example.com)
+[![4-comma][images-fig9]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig9.png)
 
 Figure 9 is the mathematics formula for user prompt defining during Phase 5 of the experiment. The final images are then iterated until the best generated image result is achieved (Itop) based on the top ten images (T10) of the final tweaked image (I`). The comic is then assembled based on the most successful results.
 
 
-[![4-comma][images-fig10]](https://example.com)
+[![4-comma][images-fig10]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig10.png)
 
 Figure 10 is the mathematics formula for the experiment to produce every stage of the experimental workflow to generate each comic panel.
 
 
-[![4-comma][images-fig11]](https://example.com)
+[![4-comma][images-fig11]](https://raw.githubusercontent.com/BritainThomas32/GenAIConsistencyImageExp/main/images/fig11.png)
 
 Figure 11 is the Panel Creation Process used in the final comic, and contains each iteration to produce the final panel.
 
